@@ -2,7 +2,7 @@ import React from 'react';
 
 function Resume() {
   // Replace this with your actual Google Drive direct link (ending with `/preview` for embedding).
-  const googleDriveLink = 'https://drive.google.com/file/d/101FHWgO2fjbI2akTnADp9dfjg5RBIVUc/preview';
+  const googleDriveLink = 'https://drive.google.com/file/d/1HkgMpqcUXuHf1CMXYNDII6SAEMGpPtRy/preview';
 
   return (
     <div className="pt-20">
@@ -24,7 +24,7 @@ function Resume() {
 
             <div className="download-section">
               <a
-                href="https://drive.google.com/uc?export=download&id=101FHWgO2fjbI2akTnADp9dfjg5RBIVUc"
+                href="https://drive.google.com/uc?export=download&id=1HkgMpqcUXuHf1CMXYNDII6SAEMGpPtRy"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="download-cv-btn"
