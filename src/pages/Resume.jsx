@@ -2,7 +2,7 @@ import React from 'react';
 
 function Resume() {
   // Replace this with your actual Google Drive direct link (ending with `/preview` for embedding).
-  const googleDriveLink = 'https://drive.google.com/file/d/1HkgMpqcUXuHf1CMXYNDII6SAEMGpPtRy/preview';
+  const googleDriveLink = 'https://drive.google.com/file/d/12RuW_TW80sGh9v90z-in2R6twE1tIuTc/preview';
 
   return (
     <div className="pt-20">
